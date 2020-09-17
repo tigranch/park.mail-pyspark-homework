@@ -1,4 +1,4 @@
-name_country	user_cnt	age_avg	men_cnt	women_cnt	men_share	women_share
+name_country,user_cnt,age_avg,men_cnt,women_cnt,men_share,women_share
 Россия	3335808	37.54	1252716	2083092	0.38	0.62
 Украина	843680	38.6	252132	591548	0.3	0.7
 Беларусь	152167	36.84	46828	105339	0.31	0.69
